@@ -1,0 +1,12 @@
+
+* Naive-Reader
+
+This is an attempt at a reimplementation of the CL reader, but without such
+things as a modifiable read table or any read-time computation.
+
+This is an impossible task.
+
+Doing this fairly well is still a useful thing for some purposes.
+
+If this isn't entirely clear why you would want this, move along, it probably
+isn't for you.
